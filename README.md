@@ -20,5 +20,5 @@ Mini-Youtube also serves as an example and template for a course project.
 
 ### Structure
 
-#### Frontend Coding[https://github.com/Zhongyuan-Ye/Mini-Youtube-Frontend.git]
+#### [Frontend Coding](https://github.com/Zhongyuan-Ye/Mini-Youtube-Frontend.git)
 
