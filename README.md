@@ -24,7 +24,7 @@ Mini-Youtube also serves as an example and template for a course project.
 
 #### [Microservice 1 Videos](https://github.com/Zhongyuan-Ye/Mini-Youtube-Microservice1.git)
 
-#### [Microservice 2 login]()
+#### [Microservice 2 Login](https://github.com/Zhongyuan-Ye/Mini-Youtube-microservice2.git)
 
-#### [Microservice 3 member]()
+#### [Microservice 3 Member]()
 
