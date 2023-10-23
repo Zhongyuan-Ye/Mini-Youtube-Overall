@@ -1,13 +1,13 @@
 # Mini-Youtube-Overall
-This is the Capstone Project of the "Mission Possible" Team From Columbia University COMS E6151 Cloud Computing Class 
+#### This is the Capstone Project of the "Mission Possible" Team From Columbia University COMS E6151 Cloud Computing Class 
 
 Short Video Sharing Website
 
-Focal Point: Zhongyuan Ye, zy2550
+### Focal Point: Zhongyuan Ye, zy2550
 
-Team Members: Zhongyuan Ye, zy2550; Yunlong Li, yl5330; Yifan Liu yl5398; Tingrui Lu tl3272;  Yiqing Cao, yc4138;
+### Team Members: Zhongyuan Ye, zy2550; Yunlong Li, yl5330; Yifan Liu yl5398; Tingrui Lu tl3272;  Yiqing Cao, yc4138;
 
-Introduction
+### Introduction
 
 For E6156 – Topics in SW Engineering: Cloud Computing, managing and coordinating the following is extremely difficult:
 
