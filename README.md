@@ -20,7 +20,7 @@ Mini-Youtube also serves as an example and template for a course project.
 
 ### Structure
 
-#### [Frontend Coding](https://github.com/Zhongyuan-Ye/Mini-Youtube-Frontend.git)
+#### [Frontend Coding](https://github.com/YancyCao/6156-MiniYouTube-Frontend.git)
 
 #### [Microservice 1 Videos](https://github.com/Zhongyuan-Ye/Mini-Youtube-Microservice1.git)
 
